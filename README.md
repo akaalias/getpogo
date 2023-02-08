@@ -1,2 +1,2 @@
-[Download Pogo for macOS here](https://github.com/akaalias/getpogo/releases/latest/download/Pogo.dmg)
+[🎁 Download Pogo for macOS here](https://github.com/akaalias/getpogo/releases/latest/download/Pogo.dmg)
 

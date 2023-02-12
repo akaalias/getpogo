@@ -1,5 +1,4 @@
-
-# Pogo is GPT-3 at your fingertips
+# Unlock the Power of GPT3 and OpenAI with a Single Keyboard Shortcut
 
 ## Features
 - Ask GPT-3 anything, anytime with a global hotkey
